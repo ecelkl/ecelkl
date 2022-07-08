@@ -3,7 +3,7 @@
 
 
 
-🌱 I’m currently learning Angular and I'm working on some other software developing technologies.
+🌱 I’m currently learning React and I'm working on some other software developing technologies.
 I'm walking through Microsoft Azure and Power Platforms Certification Pathway.
 
 I'm hoping to update here more but untill that time here's some jokes for you.
