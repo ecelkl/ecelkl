@@ -3,8 +3,8 @@
 
 
 
-🌱 I’m currently learning React and I'm working on some other software developing technologies.
-I'm walking through Microsoft Azure and Power Platforms Certification Pathway.
+🌱 I’m currently on a journey with Microsoft Power Platform Tools. Besides I'm still developing myself in software development. 
+
 
 I'm hoping to update here more but untill that time here's some jokes for you.
 
