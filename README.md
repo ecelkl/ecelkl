@@ -4,8 +4,3 @@
 
 
 🌱 I’m currently on a journey with Microsoft Power Platform Tools. Besides I'm still developing myself in software development. 
-
-
-I'm hoping to update here more but untill that time here's some jokes for you.
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=pinkish)
